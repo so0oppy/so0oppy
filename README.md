@@ -1,17 +1,34 @@
-### Hi there 👋
 
-<!--
-**so0oppy/so0oppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%10to%10So0oppy%10House%20render&fontSize=40&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=E0E6F8&height=300&section=header&text=So0oppy%20House&desc=WELCOME%20to&fontSize=50&descSize=20&descAlign=30&descAlignY=30&animation=twinkling&fontColor=AAAAA" />
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/80036437/186694882-aa55288a-1582-4b8e-ab06-86e55e806986.png" width=500px  />
+
+🤗 Hi there! <br>
+I'm **Interactive Web Front-end developer** using React and TypeScript.🚀 <br>
+I hope to be a developer who inspires many people.🪄
+
+<br>
+
+### 🎼 Tech Stack
+
+<div style="text-align: center;">
+<img alt="REACT" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"/> <br>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <br>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> 
+</div>
+<br><br>
+
+### 🖌️ Design Tools
+
+<img alt="Adobe Illustrator" src ="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/> <img alt="Adobe Xd" src ="https://img.shields.io/badge/Adobe XD-FF61F6.svg?&style=for-the-badge&logo=Adobe XD&logoColor=white"/>
+
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so0oppy&langs_count=8)](https://github.com/so0oppy/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so0oppy&show_icons=true&theme=radical)
