@@ -32,6 +32,3 @@ I hope to be a developer who inspires many people.🪄
 
 
 <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so0oppy&langs_count=8)](https://github.com/so0oppy/github-readme-stats)
-</div>
