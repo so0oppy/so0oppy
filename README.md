@@ -7,10 +7,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/80036437/186694882-aa55288a-1582-4b8e-ab06-86e55e806986.png" width=500px  />
 
-🤗 Hello! <br>
-I'm a College student who want to be **Virtual Reality developer with Interactive Content**🚀 <br>
-I hope to be a developer who inspires many people.🪄
-
 <br>
 
 ### 🎼 Tech Stack
