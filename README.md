@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 💾포트폴리오 코드 ZIP
-https://drive.google.com/drive/folders/107lqKxnYwk-Rlei4hklACUwRyOsnKRz0?usp=sharing
+https://drive.google.com/file/d/1Szato-v0If3uKJzjR4-5Nd9iKTgVuUXt/view?usp=sharing
 
 <br>
 
