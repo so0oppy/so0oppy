@@ -9,6 +9,9 @@ https://drive.google.com/file/d/1Szato-v0If3uKJzjR4-5Nd9iKTgVuUXt/view?usp=shari
 ### 🎼Tech Stacks
 
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img alt="Unreal Engine" src ="https://img.shields.io/badge/UnrealEngine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 <br>
